@@ -1,6 +1,6 @@
 ### Storybook w/React
 
-Template with Welcome page, simple React button component, and Info and JSX addons Start: **> npm run storybook**
+Template with Welcome page, simple React button component, and Info, Knobs and JSX addons Start: **> npm run storybook**
 
 Added typescript support
 Appears to require:
